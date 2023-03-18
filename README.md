@@ -4,11 +4,11 @@
 
 ## 配置详细信息
 
->[image](detiles.png)
+>[image](https://github.com/tosasitill/Hackintosh-H470-i510400F-RX550/blob/main/detiles.png)
 
->[image2]()
+>[image2](https://github.com/tosasitill/Hackintosh-H470-i510400F-RX550/blob/main/cpu.png)
 
->[image3]()
+>[image3](https://github.com/tosasitill/Hackintosh-H470-i510400F-RX550/blob/main/gpu.png)
 
 ### ACPI
 >添加 AWAC/EC-USBX-DESKTOP/GPU-SPOOF/PLUG-DRTNIA/PMC/PHUB
