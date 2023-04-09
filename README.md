@@ -1,6 +1,6 @@
 # Hackintosh-H470-i510400F-RX550
 
- OpenCore EFI backup (Ver.9.0)
+ OpenCore EFI backup (Ver.9.1)
 
 ## 配置详细信息
 
