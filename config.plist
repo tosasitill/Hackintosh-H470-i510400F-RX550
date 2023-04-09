@@ -181,7 +181,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.3</string>
+                    <string>V1.6.4</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -217,7 +217,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.2</string>
+                    <string>V1.6.4</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -235,65 +235,11 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.7</string>
+                    <string>V1.8.1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AppleALC</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>AirportItlwm.kext</string>
-                    <key>Comment</key>
-                    <string>V2.2.0</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/AirportItlwm</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>USBInjectAll.kext</string>
-                    <key>Comment</key>
-                    <string>V0.7.8</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/USBInjectAll</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>USBMap.kext</string>
-                    <key>Comment</key>
-                    <string>V1.1</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string></string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -312,24 +258,6 @@
                     <true/>
                     <key>ExecutablePath</key>
                     <string></string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
-                    <string>HoRNDIS.kext</string>
-                    <key>Comment</key>
-                    <string>V9.2</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/HoRNDIS</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -701,34 +629,34 @@
                 <key>StartupPowerEvents</key>
                 <integer>0</integer>
                 <key>SystemProductName</key>
-                <string>iMac20,1</string>
+                <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02FC02GPN5T</string>
+                <string>C02CK0NE046M</string>
                 <key>SystemUUID</key>
-                <string>3835B3E8-7611-4968-AAFE-5D7A8A8FF91D</string>
+                <string>1E13CE85-F3B7-4778-87B5-FAD111852B7E</string>
             </dict>
             <key>Generic</key>
             <dict>
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02109902GUPHC11F</string>
+                <string>C02015104J90000A8</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>GSF8ZkGZ</data>
+                <data>6LH8HZZM</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>iMac20,1</string>
+                <string>iMac20,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02FC02GPN5T</string>
+                <string>C02CK0NE046M</string>
                 <key>SystemUUID</key>
-                <string>3835B3E8-7611-4968-AAFE-5D7A8A8FF91D</string>
+                <string>1E13CE85-F3B7-4778-87B5-FAD111852B7E</string>
             </dict>
             <key>Memory</key>
             <dict>
@@ -777,13 +705,13 @@
                 <key>FirmwareFeaturesMask</key>
                 <data></data>
                 <key>MLB</key>
-                <string></string>
+                <string>C02015104J90000A8</string>
                 <key>ROM</key>
-                <data></data>
+                <data>6LH8HZZM</data>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C02CK0NE046M</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>1E13CE85-F3B7-4778-87B5-FAD111852B7E</string>
             </dict>
             <key>SMBIOS</key>
             <dict>
@@ -832,13 +760,13 @@
                 <key>SystemManufacturer</key>
                 <string></string>
                 <key>SystemProductName</key>
-                <string>iMac20,1</string>
+                <string>iMac20,2</string>
                 <key>SystemSKUNumber</key>
                 <string></string>
                 <key>SystemSerialNumber</key>
-                <string>C02FC02GPN5T</string>
+                <string>C02CK0NE046M</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>1E13CE85-F3B7-4778-87B5-FAD111852B7E</string>
                 <key>SystemVersion</key>
                 <string></string>
             </dict>
@@ -1041,6 +969,8 @@
                 <key>DirectGopRendering</key>
                 <false/>
                 <key>ForceResolution</key>
+                <false/>
+                <key>GopBurstMode</key>
                 <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
